@@ -108,7 +108,7 @@ public class FlipkartPage {
 
             // create CSVWriter object filewriter object as parameter
             CSVWriter writer = new CSVWriter(outputfile);
-
+            System.out.println("------");
             // adding header to csv
             String[] header = { "DEVICE DETAILS", "PRICE", "RATINGS" };
             writer.writeNext(header);
