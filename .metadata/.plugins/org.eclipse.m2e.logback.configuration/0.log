@@ -1,0 +1,2 @@
+2020-10-22 19:29:12,994 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-22 19:31:04,140 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:FlipkartTesting:1.0-SNAPSHOT @ /Users/binaykumar/Desktop/BZTEST/Binay_FlipkartTest_Assignment/pom.xml.
